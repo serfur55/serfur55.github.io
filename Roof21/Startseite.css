@@ -1,0 +1,118 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url('images/IMG_8443.JPG');
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 802px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 311px;
+  min-height: 462px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  background-image: none;
+  height: auto;
+  margin: 162px auto 60px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 20px 1px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 223px;
+  height: 223px;
+  background-image: url("images/BlackBeigeMinimalModernTypographicNightclubBarRestaurantLogo1Kopie.jpg?rand=ae49");
+  background-position: 50% 50%;
+  margin: 26px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  letter-spacing: 3px;
+  border-style: solid;
+  text-transform: uppercase;
+  font-weight: 500;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-size: 0.8125rem;
+  margin: 38px auto 0;
+  padding: 15px 54px 15px 53px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 71.46% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 688px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 470px;
+    margin-top: 104px;
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    background-position: 67.52% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 676px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 440px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    background-position: 75% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 645px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 367px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 100vh;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 311px;
+    margin-top: 164px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 1px;
+    padding-right: 1px;
+  }
+}
